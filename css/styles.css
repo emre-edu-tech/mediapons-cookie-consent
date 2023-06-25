@@ -1,0 +1,17 @@
+.wrap h1 {
+    padding: 1rem 0;
+}
+
+.wrap form label {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.cookie-consent__flex-container {
+    width: 50%;
+    margin-bottom: 1.2rem;
+}
+
+.cookie-consent__flex-container textarea {
+    height: 200px;
+}
