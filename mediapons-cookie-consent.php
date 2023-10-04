@@ -71,7 +71,7 @@ class MediaPonsCookieConsent {
     }
 
     function load_main_page_assets() {
-        wp_enqueue_style('mp-cookie-consent-css', plugin_dir_url(__FILE__) . '/css/styles.css');
+        wp_enqueue_style('mp-cookie-consent-css', plugin_dir_url(__FILE__) . 'css/styles.css');
     }
 
     function cookie_consent_options_page_content() { ?>
